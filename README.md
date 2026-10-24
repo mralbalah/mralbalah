@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Rashed Al-Balah 👋</h1> <h3 align="center">Full-Stack Developer & Digital Growth Lead · Founder of CodeLine Studio</h3> <p align="center"> <a href="https://codeline-studio.akgunbalah.workers.dev"><img src="https://img.shields.io/badge/CodeLine%20Studio-Website-0f7c8c?style=for-the-badge" /></a> <a href="mailto:mralbalah@gmail.com"><img src="https://img.shields.io/badge/Email-mralbalah%40gmail.com-0b2a33?style=for-the-badge&logo=gmail&logoColor=white" /></a> <!-- <a href="https://linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> --> </p>
+About me
 
-<!--
-**mralbalah/mralbalah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build websites, admin dashboards and business systems, and I make sure they bring in customers.
 
-Here are some ideas to get you started:
+🏢 Founder & Lead Developer, CodeLine Studio: 25+ projects for 13+ clients
+👕 Design & Web Team Lead, The Royal Apparel, Inc. (USA, remote): built the company website, its admin panel and the financial accounting system
+📈 Chief Marketing Officer, Root & Restore Nutrition Education: brought in 500+ clients and visitors through the website and social media
+💻 Previously Software Developer at Print Now for Design and Artwork Services, Dubai (2023–2025)
+🌍 Based in Damascus, Syria · works remotely with clients in the USA, UAE and the Gulf
+🗣️ Arabic · English · Turkish
+Tech stack
+<!-- Keep only what you actually use; add PHP / React / Node / MySQL etc. if they apply -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image
+
+What I build
+Area	Examples
+Business websites	Company sites, landing pages, portfolios
+E-commerce	Shopify & WordPress/WooCommerce stores
+Admin panels & systems	Control panels, accounting systems, internal tools
+Brand & growth	Visual identity, social media, ad design, lead generation
+Featured projects
+<!-- Replace with your pinned repos / live links -->
+ Root & Restore Nutrition Education: www.rootnrestore.org
+ CodeLine studio: https://codeline-studio.akgunbalah.workers.dev
+GitHub stats
+<p> <img height="150" src="https://github-readme-stats.vercel.app/api?username=mralbalah&show_icons=true&hide_border=true" /> <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mralbalah&layout=compact&hide_border=true" /> </p>
+
+💬 Need a website or a system for your business? Email me at mralbalah@gmail.com or visit CodeLine Studio.
